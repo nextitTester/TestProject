@@ -8,6 +8,7 @@ public class DatabaseStrings {
 	public String[] host_ids= new String[100];
 	public String[] db_ids= new String[100];
 	public String[] port_ids= new String[100];
+	public String[] test=new String[10];
 
 	public DatabaseStrings()
 	{ 
