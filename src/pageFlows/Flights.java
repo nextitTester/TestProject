@@ -51,6 +51,8 @@ public void flightFinder(WebDriver driver) throws Exception{
 
 	op.clickLink(driver, FlightFinder.button_Continue);
 	
+	op.getText(driver, FlightFinder.link_Flights);
+	
 }
 
 }
